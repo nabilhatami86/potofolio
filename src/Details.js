@@ -7,7 +7,7 @@ import profile from "./assets/Profile.png";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
-import sass from "./assets/techstack/sass.png";
+import python from "./assets/techstack/python.png";
 import js from "./assets/techstack/js.png";
 import react from "./assets/techstack/react.png";
 import redux from "./assets/techstack/redux.png";
@@ -19,6 +19,7 @@ import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
+import insomnia from "./assets/techstack/insomnia.png"
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -97,9 +98,9 @@ export const techStackDetails = {
   html: html,
   css: css,
   js: js,
+  python: python,
   react: react,
   redux: redux,
-  sass: sass,
   tailwind: tailwind,
   bootstrap: bootstrap,
   vscode: vscode,
@@ -108,6 +109,7 @@ export const techStackDetails = {
   git: git,
   github: github,
   figma: figma,
+  insomnia: insomnia,
 };
 
 // Enter your Project Details here
