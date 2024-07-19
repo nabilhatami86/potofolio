@@ -39,9 +39,7 @@ export const personalDetails = {
   name: "Muhammad Nabil HATAMI",
   tagline: "I build things for web",
   img: profile,
-  about: `I am Muhammad Nabil Hatami, a student at Nahdlatul Ulama University Indonesia, majoring in Informatics Engineering. Currently, I am in my 7th semester. 
-  I have a strong interest in web development and information technology. 
-  With a solid academic background and various practical experiences, I am committed to continuously learning and growing in this field`,
+  about: `I am Muhammad Nabil Hatami, a student at Nahdlatul Ulama University Indonesia, majoring in Informatics Engineering. Currently, I am in my 7th semester. I have a strong interest in web development and information technology. With a solid academic background and various practical experiences, I am committed to continuously learning and growing in this field`,
 };
 
 // Enter your Social Media URLs here
