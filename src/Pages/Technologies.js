@@ -17,6 +17,7 @@ function Technologies() {
     npm,
     postman,
     figma,
+    cloud,
   } = techStackDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
@@ -50,7 +51,10 @@ function Technologies() {
         <img src={github} title="Github" alt="Github" />
         <img src={figma} title="Figma" alt="Figma" />
         <img src={npm} title="NPM" alt="NPM" />
+        <img src={cloud} title="Cloud" alt="Cloud" />
         <img src={postman} title="Postman" alt="Postman" />
+        
+        
         
       </section>
     </main>

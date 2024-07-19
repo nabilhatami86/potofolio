@@ -19,7 +19,7 @@ import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
-import insomnia from "./assets/techstack/insomnia.png"
+import cloud from "./assets/techstack/cloud.png"
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -109,7 +109,7 @@ export const techStackDetails = {
   git: git,
   github: github,
   figma: figma,
-  insomnia: insomnia,
+  cloud: cloud,
 };
 
 // Enter your Project Details here
