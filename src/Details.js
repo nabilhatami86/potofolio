@@ -53,11 +53,11 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "Cloud Engineer",
+    Company: ` Difa APP`,
+    Location: "Online",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Nov 2023 - Feb 2024",
   },
   {
     Position: "Magang",
@@ -65,13 +65,6 @@ export const workDetails = [
     Location: "Jakarta",
     Type: "Full Time",
     Duration: "Apr 2024 - Jul 2024",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
   },
 ];
 
