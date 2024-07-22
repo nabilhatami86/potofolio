@@ -21,7 +21,7 @@ import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
 import cloud from "./assets/techstack/cloud.png"
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
+import projectImage1 from "./assets/projects/SNKI.png";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
@@ -108,11 +108,10 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: " Uploud Dokumen",
+    title: " Uploud Dokumen SNKI",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "ReactJs, Boostrap",
+    description: `This project provides a platform for users to upload and manage documents related to the National Financial Inclusion System (SNKI). Built with ReactJS and Bootstrap, it offers a responsive and easy-to-use interface. Key features include secure document upload, storage, and review, along with user role management to ensure authorized access.`,
+    techstack: "ReactJs, Boostrap, Express Js",
     previewLink: "https://google.com",
     githubLink: "https://github.com/nabilhatami86/Frontend-UploudDocument",
   },
